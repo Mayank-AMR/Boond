@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F68888</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorTomato">#D81B60</color>
+    <color name="colorRED">#ff5d5c</color>
+    <color name="colorMAROON">#800000</color>
+    <color name="colorLightPink">#FFCCE5</color>
+    <color name="hotPink">#FF69B4</color>
+    <color name="deepPink">#FFC0CB</color>
+    <color name="backPink">#F48C8D</color>
+</resources>
